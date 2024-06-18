@@ -1,0 +1,22 @@
+/* tempolary */
+.footer {
+    display: none;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.background-home {
+    background-color: #f9c975;
+}
+
+.background-about {
+    background-color: #ab8efa;
+}
+
+.background-resume {
+    background-color: #97b4ff;
+}
